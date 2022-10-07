@@ -1,0 +1,9 @@
+Victory
+Thumb Up
+Thumb Down
+Deer
+Excellent
+Punch
+Rock N Roll
+
+https://teachablemachine.withgoogle.com/models/SWtB-6rhq/
